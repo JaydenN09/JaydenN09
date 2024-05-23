@@ -8,7 +8,7 @@ Welcome, traveler. There are several reasons you could be here. You could be loo
 - I am a freshman, going into my sophomore year in August 2024.
 - I am currently taking several honors courses at a moderate rate. I am in Honors Geometry and Honors IPS (Introductory to Physical Science). Next year I will be taking APUSH, Honors Algebra 2, and Honors Biology.
 - I have 2 certificates in Python.
-- My pronouns are he/him. I was born a male, always will be.
+- My pronouns are he/him. I was born a male, and always will be.
 - I am straight.
 
 
@@ -18,9 +18,9 @@ Welcome, traveler. There are several reasons you could be here. You could be loo
 - [ ] I am starting driver's training (Begins June 3rd)
 
 ### What do I hope to learn/What am I learning?
-- I am currently still mastering my abilities with python, but soon I hope to learn Java and HTML/Web Design.
+- I am currently still mastering my abilities with Python, but soon I hope to learn Java and HTML/Web Design.
 - I hope to learn how to play more instruments over the years. I can currently play 17 instruments.
-- I hope to learn more about computers and go in depth with all of their features. Like, literally every single feature.
+- I hope to learn more about computers and go in-depth with all of their features. Like, literally every single feature.
 
 ### Ask some questions
 - What instruments do you play?
@@ -29,3 +29,8 @@ Welcome, traveler. There are several reasons you could be here. You could be loo
 - What is your real name? (I probably won't answer)
 
 ### How to reach me
+You can email me at jn7084856@gmail.com. I also have several social media accounts you can follow or reach out to.
+Instagram: jayden_hyze
+TikTok: @noimnotjayden
+Discord server link: discord.gg/YbGpkBfx
+Twitter/X: @hytalezelda
