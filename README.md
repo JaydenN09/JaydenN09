@@ -30,7 +30,7 @@ Welcome, traveler. There are several reasons you could be here. You could be loo
 
 ### How to reach me
 You can email me at jn7084856@gmail.com. I also have several social media accounts you can follow or reach out to.
-Instagram: jayden_hyze
-TikTok: @noimnotjayden
-Discord server link: discord.gg/YbGpkBfx
-Twitter/X: @hytalezelda
+- Instagram: jayden_hyze
+- TikTok: @noimnotjayden
+- Discord server link: discord.gg/YbGpkBfx
+- Twitter/X: @hytalezelda
